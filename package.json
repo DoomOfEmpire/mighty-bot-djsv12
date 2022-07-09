@@ -11,6 +11,8 @@
     "decompress-tarxz": "^3.0.0",
     "discord-ytdl-core": "^5.0.4",
     "discord.js": "^12.0.0",
+    "erela": "^1.11.2",
+    "erela.js-vk": "^2.3.3-vk-11",
     "ffmpeg-static": "^4.4.0",
     "forever": "^0.14.2",
     "fs": "^0.0.1-security",
