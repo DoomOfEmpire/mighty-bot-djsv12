@@ -3,4 +3,4 @@ var Constants = Discord.Constants;
 Constants.DefaultOptions.ws.properties.$browser = "Discord Android";
 
 // -> Login
-bot.login(`muie`);
+bot.login(`save`);
