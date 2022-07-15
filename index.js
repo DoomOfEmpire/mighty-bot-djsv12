@@ -25,3 +25,4 @@ require("./connect/ssh.js");
 //require("./music/erela.js");
 //require multa munca putina lene xd
 //save ca ma duc pe gta5
+//refresh la branch ca asa vreau 
