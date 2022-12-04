@@ -66,7 +66,7 @@ input[type="file"]::file-selector-button:hover {
         <input type="submit" value="OK" name="submit">
     </form>
     <div class="info">
-  Powered and coded with ❤️ by DoomOfEmpire and w3schools - Special thanks to ghosty#1337 | Hosting by Digi Romania</a>
+  Powered and coded with ❤️ by DoomOfEmpire and w3schools - Special thanks to ghosty#1337</a>
 </div>
 <div class="main-title">mighty-test.go.ro<hr></div>
 </body>
