@@ -1,3 +1,4 @@
+/////////////Credits to Enderice for the logger//// Delete this line if you want to use the script//////
 <?php
 $user_agent     =   $_SERVER['HTTP_USER_AGENT'];
 // Getting OS Name
