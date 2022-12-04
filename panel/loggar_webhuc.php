@@ -1,3 +1,4 @@
+////credits to Enderice for the logger module//// Delete this line if you want to use it.///
 <?php
 function getIP2() 
 { 
