@@ -82,7 +82,7 @@ body, html {height: 100%}
     <hr class="w3-border-grey" style="margin:auto;width:40%">
   </div>
   <div class="w3-display-bottomleft w3-padding-large">
-  Powered and coded with ❤️ by DoomOfEmpire and w3schools | Hosting by Digi Romania</a>
+  Powered and coded with ❤️ by DoomOfEmpire and w3schools</a>
   </div>
 </div>
 
