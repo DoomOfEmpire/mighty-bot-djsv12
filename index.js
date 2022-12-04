@@ -1,10 +1,10 @@
 
 //==========================================================================
-//                  Discord BOT for Mighty Mutants Server
+// Discord BOT for Mighty Mutants Server - Passed to Public Branch beacuse the project is dead.
 //==========================================================================                
 //________________________________________________________________________________________________
 //                                                   Invoice:
-//  Supplier:m0untain|Ghosty                                 Customer: ˚₊·͟͟ᴹᴹDoomOfEmpireᶦᵍᶻᵈᵉ#5821
+//  Supplier:m0untain|Ghosty                                                 Customer: DoomOfEmpire and Wiky 
 //  
 //________________________________________________________________________________________________
 //                          Product:                        Quantity                    Value
