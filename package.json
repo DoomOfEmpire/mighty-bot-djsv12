@@ -14,7 +14,7 @@
     "erela": "^1.11.2",
     "erela.js-vk": "^2.3.3-vk-11",
     "ffmpeg-static": "^4.4.0",
-    "forever": "^0.14.2",
+    "forever": "^4.0.3",
     "fs": "^0.0.1-security",
     "googleapis": "^89.0.0",
     "graceful-fs": "^4.2.8",
